@@ -39,11 +39,11 @@ footer p {
 
   .cartao__conteudo {
    text-align: center;
-   background-color: black;
+   background-color: rgb(191, 26, 26);
    height: 100%;
   }
   .cartao__conteudo h3 {
-   background-color: black;
+   background-color: rgb(211, 103, 103);
    text-align: left;
    padding: 0.5;
   }
