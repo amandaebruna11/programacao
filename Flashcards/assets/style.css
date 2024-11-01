@@ -1,5 +1,5 @@
 body {
- background-color: rgb(99, 130, 181);
+      background: url('img/bg-desktop.webp');
  color: white;
 }
 
@@ -17,9 +17,6 @@ footer p {
     text-align: center;
     font-size: 0.9rem;
 }
- body {
-  background-color: rgb(67, 95, 204);
-  font-family: Bai Jamjuree;
 
 }
  #container { 
