@@ -16,6 +16,7 @@ color: white;
 footer p {
     text-align: center;
     font-size: 0.9rem;
+    margin-top: 0.5rem;
 }
 
  #container { 
@@ -49,6 +50,10 @@ footer p {
    font-size: 1vw;
   }
 
+  .cartao__conteudo p {
+   margin-top: 1 rem;
+   padding: 2 rem;
+  }
    :root {
       --text-color: #DBE4EF;  
       --card-front-color: #144480;
